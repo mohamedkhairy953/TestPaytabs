@@ -5,6 +5,6 @@
              http://maven.apache.org/maven-v4_0_0.xsd">
    <modelVersion>4.0.0</modelVersion>
    <groupId>com.paytabs</groupId>
-   <artifactId>paymentsdk-release</artifactId>
-   <version>6.0.4</version>
+   <artifactId>paymentsdk</artifactId>
+   <version>6.0.5</version>
 </project>
